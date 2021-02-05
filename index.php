@@ -38,7 +38,7 @@ For fun I like to exercise and draw, as well as take care of my pet Senegal parr
 <br>
 One of the things I'd love to get better at in this class involves designing web pages that look good on multiple devices. In my previous course, we touched on that a bit but I'm still not too sure of myself when it comes to writing the code required for that.
 <br>
-My goal is to develop the skills to become a freelance designer.
+My goal is to develop the skills to become a freelance designer and makes lots of money.
 </p>
 
 </aside>
